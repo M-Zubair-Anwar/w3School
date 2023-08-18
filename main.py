@@ -6,6 +6,7 @@ print("hello worlds!")
 y=5               # integer value
 name="ali"        # string value
 z=10.0            # floating value
+
 print(y)          # result is 5
 print(name)       # result is ali
 print(z)          # result is 10.0
@@ -20,6 +21,7 @@ a,b,c=fruits
 print(a)        # result is orange
 print(b)        # result is banana
 print(c)        # result is cherry
+
 # global variable created outside of funtion and can  use both side
 # (inside and outside) of funtion and other side local variable declared in
 # funtion
