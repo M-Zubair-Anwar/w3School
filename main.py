@@ -39,3 +39,4 @@ else:
 
 s=100
 print(isinstance(s,str))         # False
+print("change")
